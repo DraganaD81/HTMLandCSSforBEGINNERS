@@ -1,0 +1,24 @@
+body {
+    background-color: #a7dbe3;
+    background-image: url(../img/restaurant.jpg);
+    color: white;
+    font-size: 21px;
+}
+
+h1 {
+    font-size: 70px;
+    color: #3747b3;
+}
+
+p {
+    color: #2f4c5c;
+}
+
+.box {
+    background-image: url(../img/flower.jpg);
+    margin: 100px;
+    padding: 800px 100px;
+
+    background-size: cover;
+    background-position: center;
+}
