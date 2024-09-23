@@ -1,0 +1,76 @@
+body {
+    background-color: #a7dbe3;
+    background-image: url(../img/restaurant.jpg);
+    color: #4e476a;
+    font-size: 21px;
+
+    font-family: Calibri,Candara,Segoe,Segoe UI,Optima,Arial,sans-serif;
+}
+h1 {
+    font-size: 70px;
+    color: #3747b3;
+    font-family: Rockwell,Courier Bold,Courier,Georgia,Times,Times New Roman,serif;
+    margin-bottom: 0px;
+}
+
+h2 {
+    margin-top: 0px;
+}
+
+p {
+    margin-top: 0px;
+    margin-bottom: 20px;
+
+    line-height: 1.4;
+
+    font-size: 30px;
+}
+
+/* a:link {
+    color: black;
+}
+
+a:visited {
+    color: pink;
+}
+
+a:hover {
+    color: yellow;
+}
+
+a:active {
+    color: blue;
+} */
+
+a {
+    color: #7484eb;
+    text-decoration: none;
+}
+
+a:hover,
+a:focus {
+    color: #555;
+}
+
+
+.body-text {
+    background-color: #79acd1;
+    padding: 50px;
+}
+
+.body-text p {
+    color: white;
+}
+
+.body-text a {
+    color: #f7c0f4;
+}
+
+.body-text a:hover {
+    color: #ddd;
+}
+
+.important-link,
+.body-text .important-link {
+    color: yellow;
+}
