@@ -1,0 +1,93 @@
+body {
+    background-color: #a7dbe3;
+    background-image: url(../img/flower.jpg);
+    background-size: 100%;
+    color: #4e476a;
+    font-size: 21px;
+
+    font-family: Calibri,Candara,Segoe,Segoe UI,Optima,Arial,sans-serif;
+}
+h1 {
+    font-size: 70px;
+    color: #3747b3;
+    font-family: Rockwell,Courier Bold,Courier,Georgia,Times,Times New Roman,serif;
+    margin-bottom: 0px;
+}
+
+h2 {
+    margin-top: 0px;
+}
+
+p {
+    margin-top: 0px;
+    margin-bottom: 15px;
+    line-height: 1.4;
+}
+
+.red-box {
+    width: 500px;
+    background: rgba(255, 0, 0, .5);
+
+    float: left;
+}
+
+.blue-box {
+    width: 500px;
+    background: blue;
+    color: white;
+float: right;
+}
+
+img {
+    float: left;
+}
+
+.box {
+    width: 100px;
+    height: 100px;
+    float: left;
+}
+
+.box1 {
+    background: #8fdb83;
+}
+
+.box2 {
+    background: rgba(255, 0, 0, .5);
+}
+
+.box3 {
+    background: firebrick;
+}
+
+.box4 {
+    background: orange;
+}
+
+.box5 {
+    background: yellow;
+
+    clear: both;
+}
+
+.box6 {
+    background: lime;
+}
+
+.box7 {
+    background: green;
+}
+
+.box8 {
+    background: hsla(150, 100%, 25%, .5);
+    width: 300px;
+    height: 300px;
+}
+
+.box9 {
+    background: rgba(0, 150, 255, .25);
+    width: 300px;
+    height: 300px;
+    font-size: 34px;
+    font-weight: bold;
+}
